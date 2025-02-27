@@ -1,10 +1,1 @@
-http://161.123.152.115:6360:wgftecgl:h1hi4wjzutvl
-http://23.94.138.75:6349:wgftecgl:h1hi4wjzutvl
-http://64.64.118.149:6732:wgftecgl:h1hi4wjzutvl
-http://142.147.128.93:6593:wgftecgl:h1hi4wjzutvl
-http://198.105.101.92:5721:wgftecgl:h1hi4wjzutvl
-http://154.36.110.199:6853:wgftecgl:h1hi4wjzutvl
-http://166.88.58.10:5735:wgftecgl:h1hi4wjzutvl
-http://173.0.9.70:5653:wgftecgl:h1hi4wjzutvl
-http://45.151.162.198:6600:wgftecgl:h1hi4wjzutvl
-http://173.0.9.209:5792:wgftecgl:h1hi4wjzutvl
+http://34390003-zone-custom-region-JP-sessid-iGe2CIvG-sessTime-15:pRdGW39A@asg.360s5.com:3600
